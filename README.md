@@ -6,6 +6,8 @@ First repository to share some things, getting started.
 
 Our IRC channel is #ormcollab on freenode. You can use the [webchat](http://webchat.freenode.net/?channels=ormcollab) or any other client.
 
+[Links/Resources](https://github.com/phparsenal/roadmap/wiki/Links)
+
 ## Proposal for collaboration guidelines
 
 ### Version control
