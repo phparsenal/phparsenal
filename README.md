@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/phparsenal/roadmap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phparsenal/roadmap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+**We have started on our first project: [fast forward](https://github.com/phparsenal/fast-forward)**
+
 First repository to share some things, getting started.
 
 Our IRC channel is #ormcollab on freenode. You can use the [webchat](http://webchat.freenode.net/?channels=ormcollab) or any other client.
