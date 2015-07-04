@@ -10,14 +10,20 @@ Our IRC channel is #ormcollab on freenode. You can use the [webchat](http://webc
 
 [Links/Resources](https://github.com/phparsenal/roadmap/wiki/Links)
 
-## Proposal for collaboration guidelines
+## Collaboration
+Anyone is welcome to contribute.
 
 ### Version control
-Git as a DVCS and a central Github repository for the group is hard to argue with.
+Git repositories via Github.
+
+As discussed [here](https://github.com/phparsenal/fast-forward/issues/):
+- New features get their own branches
+- Merge or send a pull request into develop to be tested
+- Merge into master when ready to be released
 
 Use [semantic versioning](http://semver.org/) when tagging releases.
 
-### PHP
+## Programming / PHP
 Generally use php-fig's PSRs as they currently reflect PHP best practices.
 
 - Follow the [PSR-2 coding style guide](http://www.php-fig.org/psr/psr-2/)
